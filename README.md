@@ -1,5 +1,3 @@
 # Push-up-Bars
 
-<video autoplay>
-  <source src="Pictures/Pushup.mp4">
-</video>
+<video src="Pictures/Pushup.mp4" autoplay></video>
